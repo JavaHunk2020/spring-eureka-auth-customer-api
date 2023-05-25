@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: javahunk
+Build-Jdk: 15.0.2
+Implementation-Title: spring-eureka-auth
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: spring.eureka
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-eureka-auth-api
+Created-By: Maven Integration for Eclipse
+
